@@ -15,4 +15,4 @@ if __name__ == '__main__':
     server_url = 'https://www.google.com'
     while True:
         check_server_status(server_url)
-        time.sleep(2)
+        time.sleep(1)

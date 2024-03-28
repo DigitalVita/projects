@@ -1,0 +1,1 @@
+print('\n'.join([' ' * (10-x-1) + '*' * (2*x-1) for x in range(10)]))
